@@ -1,0 +1,3 @@
+C:\Users\deivi\source\repos\2 SavarankiskasDarbas\2 SavarankiskasDarbas\x64\Debug\2 SavarankiskasDarbas.vcxproj.AssemblyReference.cache
+C:\Users\deivi\source\repos\2 SavarankiskasDarbas\2 SavarankiskasDarbas\x64\Debug\_2_SavarankiskasDarbas.Form1.resources
+C:\Users\deivi\source\repos\2 SavarankiskasDarbas\2 SavarankiskasDarbas\x64\Debug\2 SavarankiskasDarbas.vcxproj.GenerateResource.cache
