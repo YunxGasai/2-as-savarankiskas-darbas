@@ -5,5 +5,6 @@ Sukurta:
 * Meniu skirta duomenu rasytu progaramoje saugojimui.  
 * Skaitymas is failo.  
 * Programos uzdarymas ir apie ja.
+* Setup failas
 
 
